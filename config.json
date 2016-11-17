@@ -1,0 +1,14 @@
+{
+  "client_id": {
+    "label": "Client ID",
+    "type": "String",
+    "required": true,
+    "help": "Wunderlist app Client ID."
+  },
+  "access_token": {
+    "label": "Access Token",
+    "type": "Password",
+    "required": true,
+    "help": "Wunderlist app Access Token."
+  }
+}
